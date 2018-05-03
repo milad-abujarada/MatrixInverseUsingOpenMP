@@ -1,4 +1,4 @@
-# LU Decomposition method to generate Matrix Inverse Using OpenMP
+# LU Decomposition method to generate Matrix Inverse
 This is a project I did in a Computer Architecture class when I was student at the University of Colorado Denver.
 
 ## Introduction
