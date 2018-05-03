@@ -4,7 +4,7 @@ This is a project I did in a Computer Architecture class when I was student at t
 ## Introduction
 Data security is one of the thriving areas in computer science. This area depends profoundly on mathematical computations such as matrix inverse to encrypt and decrypt data. In this project I portray the speed gained in using openMP, a parallel programming API, in calculating large matrices inverses using multiple CPUs and different number of threads. The results of using openMP is compared to the result of a sequential approach written using C++.
 
-## The execution enviornment
+## The execution environment
 The execution of the implementation toke place on a cluster machine called Hydra.
 
 ## Hydra
